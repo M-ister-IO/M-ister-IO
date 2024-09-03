@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on developping a bot that engages with instagram communities through instagram<br>I'm currently learning about web apps, APis, and database managament
+I'm currently working on developping a bot that engages with instagram communities through dm's<br>
+I'm currently learning about web apps, APIs, and database managament<br>
+Pursuing my final year of Aerospace Engineering and Astronautics Master's at Cranfield University
 
 
 ## 🌐 Socials:
